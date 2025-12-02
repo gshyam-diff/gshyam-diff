@@ -38,7 +38,7 @@ I am currently working to bridge the gap between **industrial engineering rigor*
 
 ---
 <div align="center">
-  <a href="(https://linkedin.com/in/gsrkp15)">
+  <a href="https://linkedin.com/in/gsrkp15">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:ghanashyam2k26@gmail.com">
