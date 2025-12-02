@@ -11,7 +11,7 @@ I am currently working to bridge the gap between **industrial engineering rigor*
 ### 🔭 Core Competencies
 
 **Software Engineering (Professional)**
-![Azure](https://img.shields.io/badge/Cloud-Azure%20Functions-0078D4) ![Kafka](https://img.shields.io/badge/Streaming-Apache%20Kafka-black) ![.NET](https://img.shields.io/badge/Backend-.NET%20Core-purple) ![Angular](https://img.shields.io/badge/Frontend-Angular-dd0031)
+![Azure](https://img.shields.io/badge/Cloud-Azure%20Functions-0078D4) ![.NET](https://img.shields.io/badge/Backend-.NET%20Core-purple) ![Angular](https://img.shields.io/badge/Frontend-Angular-dd0031)
 
 **Robotics & AI (Research)**
 ![ROS](https://img.shields.io/badge/ROS-Melodic%2FNoetic-orange) ![MoveIt](https://img.shields.io/badge/MoveIt!-Motion%20Planning-blue) ![Gazebo](https://img.shields.io/badge/Sim-Gazebo-green) ![Open3D](https://img.shields.io/badge/Lib-Open3D%2FPCL-lightgrey)
