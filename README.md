@@ -34,7 +34,7 @@ I am currently working to bridge the gap between **industrial engineering rigor*
 
 ### 🎵 Beyond the Keyboard
 * **Carnatic Classical Vocalist:** I explore the intersection of mathematics and art through rigorous Raga improvisation.
-* **Community Leadership:** Active mentor for junior researchers and organizer of reforestation initiatives (Teal Team Green Drive).
+* **Community Leadership:** Active mentor for junior researchers and organizer of reforestation initiatives (Blue Team Green Drive).
 
 ---
 <div align="center">
